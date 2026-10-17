@@ -4,7 +4,7 @@ title: GoodToGo Privacy Policy
 
 # GoodToGo Privacy Policy
 
-**Effective date:** 28 September 2026
+**Effective date:** 17 October 2026
 
 This policy explains what information the GoodToGo iPhone app uses, where it is stored, who can
 access it, and how you can delete it. "We" and "the developer" mean the independent developer of
@@ -43,7 +43,9 @@ GoodToGo sends information only to Apple services. It does not send information 
 or to any other company.
 
 - **Apple Maps:** your current location (when you use a Current Location plan), the places in your
-  plans, and the text you type into place search. Used for place search, routes, travel times, and
+  plans, and the text you type into place search. Place search also sends a nearby point so results
+  near you come first: another place in the plan, your current location if you have already allowed
+  location access, or the last place you picked. Used for place search, routes, travel times, and
   map images.
 - **Apple Weather:** the locations of your commute. Used for the forecast and weather alerts.
 - **iCloud (only if you turn on iCloud Sync):** your plans, places, packing lists, completed
